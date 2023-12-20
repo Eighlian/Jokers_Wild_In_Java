@@ -1,1 +1,3 @@
 # Jokers_Wild_In_Java
+
+This project will expand on the Poker assignments to a fully playable game. In Poker #3, we added betting to the game and checked for a ‘winning’ hand. Now, we want to include the Jokers, which can count as any card in the deck. We also need to add tiered payouts, so better hands pay more, i.e. Full House wins more money than a pair. With the introduction of wilds, there is a different table of odds you’ll want to look up, for instance a single pair is no longer a winning hand. With that said, here is a list of features to consider. A group of 6 should look to implement all of them, while a group of 2 need only pick 2 for full credit.
